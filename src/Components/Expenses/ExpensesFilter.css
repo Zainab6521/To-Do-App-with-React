@@ -22,3 +22,7 @@
     font-weight: bold;
     border-radius: 6px;
   }
+  .expenses-filter select :hover{
+color: darkgrey;
+
+  }
